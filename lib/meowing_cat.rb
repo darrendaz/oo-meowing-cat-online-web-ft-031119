@@ -2,7 +2,6 @@
 class Cat
   def name
     @name
-    
   end
   
   attr_accessor :name
